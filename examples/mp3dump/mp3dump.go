@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/bobertlo/go-mpg123/mpg123"
+	"github.com/davidapp/go-mpg123/mpg123"
 	"os"
 )
 
